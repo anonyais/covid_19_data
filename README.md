@@ -8,8 +8,8 @@ Before running the script, make sure you have the following prerequisites instal
 
 - Python 3.x
 - PostgreSQL database
-- Create a database called 
-- Create a table using the provide create table script
+- Create a database called covid_19_data
+- Create a table using the provided create table script
 
 
 
